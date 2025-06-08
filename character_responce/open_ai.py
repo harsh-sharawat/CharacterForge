@@ -1,5 +1,5 @@
 import openai
-openai.api_key = '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'
+openai.api_key = '----'
 def generate_response(prompt, temperature=0, stream=True):
   """Generates a response to a prompt using the OpenAI Chat Completion API.
 

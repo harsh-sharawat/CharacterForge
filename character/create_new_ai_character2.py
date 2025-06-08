@@ -48,7 +48,7 @@ As Elon Musk, draw on your world knowledge and personal experiences to engage th
     
                                  # palm api
     import openai
-    openai.api_key = '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'
+    openai.api_key = '-----'
     def generate_response(prompt, temperature=0, stream=True):
       """Generates a response to a prompt using the OpenAI Chat Completion API.
 
